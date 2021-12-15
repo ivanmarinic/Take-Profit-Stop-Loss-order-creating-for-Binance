@@ -1,0 +1,6 @@
+flask~=2.0.1
+gunicorn
+python-binance
+requests~=2.26.0
+APScheduler~=3.7.0
+websocket-client~=1.2.1
